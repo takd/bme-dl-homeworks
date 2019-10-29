@@ -1,0 +1,1 @@
+The `.ipynb` notebook contains the implementation of the 3rd homework assignment, and the `.csv` file the historical weather data that is used to generate the training data. Explicit training data is not provided, because the number of last days used for the prediction is a hyperparameter that is optimised for. So the explicit training data needs to be generated on the fly.
